@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCaixaEletronico", "ProjetoCaixaEletronico\ProjetoCaixaEletronico.csproj", "{E54732DF-FC48-4F6C-8770-B860A05D4ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testes", "testes\testes.csproj", "{9EC09333-BF97-410B-B145-8324F5108460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54732DF-FC48-4F6C-8770-B860A05D4ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54732DF-FC48-4F6C-8770-B860A05D4ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54732DF-FC48-4F6C-8770-B860A05D4ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54732DF-FC48-4F6C-8770-B860A05D4ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC09333-BF97-410B-B145-8324F5108460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC09333-BF97-410B-B145-8324F5108460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC09333-BF97-410B-B145-8324F5108460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC09333-BF97-410B-B145-8324F5108460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\ProjetoCaixaEletronico\ProjetoCaixaEletronico\bin\Debug\ProjetoCaixaEletronico.dll
+c:\users\ifsp\documents\visual studio 2010\Projects\ProjetoCaixaEletronico\ProjetoCaixaEletronico\bin\Debug\ProjetoCaixaEletronico.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\ProjetoCaixaEletronico\ProjetoCaixaEletronico\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\ProjetoCaixaEletronico\ProjetoCaixaEletronico\obj\Debug\ProjetoCaixaEletronico.dll
+c:\users\ifsp\documents\visual studio 2010\Projects\ProjetoCaixaEletronico\ProjetoCaixaEletronico\obj\Debug\ProjetoCaixaEletronico.pdb
+G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\ProjetoCaixaEletronico\bin\Debug\ProjetoCaixaEletronico.dll
+G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\ProjetoCaixaEletronico\bin\Debug\ProjetoCaixaEletronico.pdb
+G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\ProjetoCaixaEletronico\obj\Debug\ResolveAssemblyReference.cache
+G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\ProjetoCaixaEletronico\obj\Debug\ProjetoCaixaEletronico.dll
+G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\ProjetoCaixaEletronico\obj\Debug\ProjetoCaixaEletronico.pdb

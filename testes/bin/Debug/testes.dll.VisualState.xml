@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1023]G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\testes\bin\Debug\testes.dll</TopNode>
+  <SelectedNode>[0-1019]testes.TesteConta.Verificar_Sacar_Fora_do_Saldo_Dentro_do_Limite</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1023]G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\testes\bin\Debug\testes.dll" Expanded="true" />
+    <Node UniqueName="[0-1024]testes" Expanded="true" />
+    <Node UniqueName="[0-1011]testes.TesteConta" Expanded="true" />
+    <Node UniqueName="[0-1009]testes.TesteCorrentista" Expanded="true" />
+    <Node UniqueName="[0-1000]testes.TesteInstituicao" Expanded="true" />
+  </Nodes>
+</VisualState>

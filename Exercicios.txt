@@ -1,0 +1,27 @@
+1 - criar associação entre correntista e conta
+
+2 - uma conta deve ser criada com saldo igual a 0
+
+3 - deve ser possivel aumentar o saldo da conta (depositar)
+
+4 - deve ser possivel retirar o saldo da conta (sacar)
+	- ter saldo suficiente
+	- ter limite suficiente
+5 - deve ser possivel transferir saldo da conta para outra(transferencia)
+	- ter saldo 
+	- ter limite
+	
+	
+	
+	
+	
+sacar fora do saldo (limite = 0)
+
+sacar fora do saldo dentro do limite
+	- definir limite 
+
+sacar fora do saldo e fora do limite
+	-definir limite
+	
+
+sacar e depositar várias vezes

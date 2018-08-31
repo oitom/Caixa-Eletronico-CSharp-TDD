@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\testes\bin\Debug\testes.dll" total="20" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-11-18" time="22:30:02">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4984" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="G:\IFSP\Tecnologo\5º-MOD\ENG\NUnit-2.6.3\NUnit-2.6.3\bin" machine-name="LAB" user="IFSP" user-domain="LAB" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="G:\IFSP\Tecnologo\5º-MOD\ENG\ProjetoCaixaEletronico\testes\bin\Debug\testes.dll" executed="True" result="Success" success="True" time="0.251" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="testes" executed="True" result="Success" success="True" time="0.235" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TesteConta" executed="True" result="Success" success="True" time="0.148" asserts="0">
+            <results>
+              <test-case name="testes.TesteConta.Criar_Conta" executed="True" result="Success" success="True" time="0.051" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Depositar_Valor_Inteiro" executed="True" result="Success" success="True" time="0.019" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Depositar_Valor_Real" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Limite_Zero" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Sacar_Dentro_do_Saldo" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Sacar_Fora_do_Saldo" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Sacar_Fora_do_Saldo_Dentro_do_Limite" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Sacar_Fora_do_Saldo_Fora_do_Limite" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Sacar_Varias_Vezes" executed="True" result="Success" success="True" time="0.003" asserts="7" />
+              <test-case name="testes.TesteConta.Verificar_Saldo_Zero" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteConta.Verificar_Transferir" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TesteCorrentista" executed="True" result="Success" success="True" time="0.007" asserts="0">
+            <results>
+              <test-case name="testes.TesteCorrentista.Criar_Corresntista" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TesteInstituicao" executed="True" result="Success" success="True" time="0.058" asserts="0">
+            <results>
+              <test-case name="testes.TesteInstituicao.Criar_Instuicao" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteInstituicao.Verificar_Buscar_Correntista_Existente_Por_Cpf" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+              <test-case name="testes.TesteInstituicao.Verificar_Buscar_Correntista_Inexistente_Por_Cpf" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteInstituicao.Verificar_Cadastro_Correntista" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="testes.TesteInstituicao.Verificar_Correntista_Com_Mesmo_Cpf" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+              <test-case name="testes.TesteInstituicao.Verificar_Lista_Correntista" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteInstituicao.Verificar_Lista_Correntista_Vazia" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="testes.TesteInstituicao.Verificar_Mais_De_Um_Cadastro_Correntista" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
